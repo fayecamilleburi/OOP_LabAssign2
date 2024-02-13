@@ -5,6 +5,7 @@ public class BlockSection {
     private String description;
     private String adviser;
     private List<Student> studentList;
+    @SuppressWarnings("unused")
     private Integer totalStudents;
 
     //setter method

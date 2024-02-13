@@ -5,6 +5,7 @@ public class Student {
     private String name;
     private String program;
     private List<Course> courseList;
+    @SuppressWarnings("unused")
     private Integer totalUnitsEnrolled;
 
     //setter method
